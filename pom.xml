@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.31.3:9980/chanvika/repository/facebook-releases/</url>
+	      <url>http://43.204.32.22:9980/chanvika/repository/facebook-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.31.3:9980/chanvika/repository/facebook-snapshot/</url>
+	      <url>http://43.204.32.22:9980/chanvika/repository/facebook-releases/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
