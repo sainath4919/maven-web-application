@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.109.122.114:9000/</sonar.host.url>
-		<sonar.login>squ_e45643a8b75861bec773b8a16763f756fc00ca19</sonar.login>
+		<sonar.host.url>http://65.2.11.240:9000/</sonar.host.url>
+		<sonar.login>squ_d711ba2b99c34da4f94bea4452fa05d48858e713</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.32.22:9980/chanvika/repository/facebook-snapshot/</url>
+	      <url>http://13.232.190.107:8081/repository/mvn-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
